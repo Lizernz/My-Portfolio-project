@@ -1,15 +1,23 @@
-body {
-    background-color: brown;
-}
-
-h1 { 
-    color: white;
-    font-family: "playfair Display", serif;
-    font-weight: bold;
+h1
+h2
+h3
+h4
+h5
+h6 {
+font-family: "playfair Display", serif; 
+font-size: bold;
 }
 
 p { 
-    color: white;
-    font-family: "playfair Display", serif;
+    font-family:"Poppins", sans-serif;
     font-weight: normal;
+}
+
+.hero {
+    background-color: #F9F7FE;
+    text-align: center;
+}
+
+.hero p {
+    font-size: 96;
 }
